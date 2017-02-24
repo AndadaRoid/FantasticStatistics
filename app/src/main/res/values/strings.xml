@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Fantastic Statistics</string>
+    <string name="login">Bejelentkezés</string>
 </resources>
